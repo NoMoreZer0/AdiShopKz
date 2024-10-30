@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Classic White Crew Neck",
+        "description": "A versatile white crew-neck T-Shirt made from organic cotton. Ideal for casual outings or as a layering piece.",
+        "category": "T-Shirt",
+        "price": 20,
+        "images": ["https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0fGVufDB8fDB8fHww"],
+        "viewCount": 0
+    },
+    {
+        "name": "Vintage Black Tee",
+        "description": "A stylish black T-Shirt with a comfortable, relaxed fit, perfect for pairing with jeans or chinos.",
+        "category": "T-Shirt",
+        "price": 25,
+        "images": ["https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dCUyMHNoaXJ0JTIwYmxhY2t8ZW58MHx8MHx8fDA%3D"],
+        "viewCount": 0
+    },
+    {
+        "name": "Graphic Urban Tee",
+        "description": "Urban-style graphic T-Shirt that adds a bold statement to any outfit. Made from high-quality, breathable fabric.",
+        "category": "T-Shirt",
+        "price": 28,
+        "images": ["https://plus.unsplash.com/premium_photo-1687294575545-44fcc8761b6b?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dCUyMHNoaXJ0JTIwdXJiYW58ZW58MHx8MHx8fDA%3D"],
+        "viewCount": 0
+    },
+    {
+        "name": "Eco-Friendly Green Tee",
+        "description": "A sustainable green T-Shirt crafted from recycled materials, soft and comfortable for all-day wear.",
+        "category": "T-Shirt",
+        "price": 30,
+        "images": ["https://plus.unsplash.com/premium_photo-1690347838464-d9884307b80f?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dCUyMHNoaXJ0JTIwZ3JlZW58ZW58MHx8MHx8fDA%3D"],
+        "viewCount": 0
+    },
+    {
+        "name": "Minimalist Grey Tee",
+        "description": "A minimalist grey T-Shirt that combines style with comfort. Perfect for a laid-back, modern look.",
+        "category": "T-Shirt",
+        "price": 22,
+        "images": ["https://plus.unsplash.com/premium_photo-1664791085321-a36bf1e801f2?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHQlMjBzaGlydCUyMGdyZXl8ZW58MHx8MHx8fDA%3D"],
+        "viewCount": 0
+    },
+    {
+        "name": "Retro Print Tee",
+        "description": "A unique T-Shirt with a vintage-inspired print. This retro design gives off a nostalgic feel.",
+        "category": "T-Shirt",
+        "price": 27,
+        "images": ["https://plus.unsplash.com/premium_photo-1687850859076-b8e74a1ac8fa?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHQlMjBzaGlydHxlbnwwfHwwfHx8MA%3D%3D"],
+        "viewCount": 0
+    },
+    {
+        "name": "Abstract Art Tee",
+        "description": "Featuring a bold abstract print, this T-Shirt is designed for art lovers looking to make a fashion statement.",
+        "category": "T-Shirt",
+        "price": 29,
+        "images": ["https://images.unsplash.com/photo-1522724514897-24b0eb7ba3ea?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHQlMjBzaGlydHxlbnwwfHwwfHx8MA%3D%3D"],
+        "viewCount": 0
+    },
+    {
+        "name": "Monochrome Striped Tee",
+        "description": "A monochrome striped T-Shirt, ideal for both casual and smart-casual occasions.",
+        "category": "T-Shirt",
+        "price": 26,
+        "images": ["https://images.unsplash.com/photo-1678872844677-d650b788709b?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fHQlMjBzaGlydHxlbnwwfHwwfHx8MA%3D%3D"],
+        "viewCount": 0
+    },
+    {
+        "name": "Sporty Blue Tee",
+        "description": "This blue T-Shirt offers a sporty look with a casual fit, suitable for everyday wear or workout sessions.",
+        "category": "T-Shirt",
+        "price": 24,
+        "images": ["https://images.unsplash.com/photo-1579565577762-78f2d9dd042e?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fHQlMjBzaGlydHxlbnwwfHwwfHx8MA%3D%3D"],
+        "viewCount": 0
+    },
+    {
+        "name": "Bold Red Statement Tee",
+        "description": "Bright red statement T-Shirt that adds a pop of color to your wardrobe. Made from breathable cotton.",
+        "category": "T-Shirt",
+        "price": 21,
+        "images": ["https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fHQlMjBzaGlydHxlbnwwfHwwfHx8MA%3D%3D"],
+        "viewCount": 0
+    }
+]

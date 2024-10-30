@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: web
+    restart: always
+    volumes:
+      - ./:/usr/src/app
+    ports:
+      - "3000:3000"
+    depends_on:
+      - mongo
+
+  mongo:
+    image: mongo:5.0
+    container_name: mongo
+    environment:
+      - MONGO_INITDB_DATABASE=adi_shop_kz
+    ports:
+      - '27017:27017'
+    volumes:
+      - ./data:/data
+      - mongo_data:/data/db
+    command: |
+      sh -c "
+        mongoimport --db adi_shop_kz --collection products --file furniture.json --jsonArray;
+        mongoimport --db adi_shop_kz --collection products --file products.json --jsonArray;
+        mongoimport --db adi_shop_kz --collection products --file t-shirts.json --jsonArray;
+      "
+
+volumes:
+  mongo_data:

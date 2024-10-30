@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Modern Sofa",
+        "description": "A comfortable modern sofa with high-quality fabric, ideal for any living room. Comes with soft cushions for extra comfort.",
+        "category": "Furniture",
+        "price": 450,
+        "images": ["https://plus.unsplash.com/premium_photo-1661765778256-169bf5e561a6?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c29mYXxlbnwwfHwwfHx8MA%3D%3D"],
+        "viewCount": 0
+    },
+    {
+        "name": "Wooden Dining Table",
+        "description": "A solid oak dining table with a minimalist design. Seats up to six people and perfect for family gatherings.",
+        "category": "Furniture",
+        "price": 600,
+        "images": ["https://plus.unsplash.com/premium_photo-1676320514175-8a41932fcd46?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZGluaW5nJTIwdGFibGV8ZW58MHx8MHx8fDA%3D"],
+        "viewCount": 0
+    },
+    {
+        "name": "Office Chair",
+        "description": "Ergonomic office chair with adjustable height and lumbar support. Perfect for long working hours.",
+        "category": "Furniture",
+        "price": 120,
+        "images": ["https://images.unsplash.com/photo-1572521165329-b197f9ea3da6?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8b2ZmaWNlJTIwY2hhaXJ8ZW58MHx8MHx8fDA%3D"],
+        "viewCount": 0
+    },
+    {
+        "name": "Bookshelf",
+        "description": "Tall wooden bookshelf with multiple compartments. Ideal for storing books and decorative items.",
+        "category": "Furniture",
+        "price": 200,
+        "images": ["https://images.unsplash.com/photo-1530608031805-8e170c1b793a?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Ym9va3NoZWxmfGVufDB8fDB8fHww"],
+        "viewCount": 0
+    },
+    {
+        "name": "Coffee Table",
+        "description": "Stylish coffee table with a glass top and metal legs. Great for modern living rooms.",
+        "category": "Furniture",
+        "price": 150,
+        "images": ["https://plus.unsplash.com/premium_photo-1705937171534-def8d344cf6b?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29mZmUlMjB0YWJsZXxlbnwwfHwwfHx8MA%3D%3D"],
+        "viewCount": 0
+    },
+    {
+        "name": "Bed Frame",
+        "description": "King-sized wooden bed frame with a minimalist design. Durable and easy to assemble.",
+        "category": "Furniture",
+        "price": 350,
+        "images": ["https://plus.unsplash.com/premium_photo-1667764824866-20cf3f787402?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmVkJTIwZnJhbWV8ZW58MHx8MHx8fDA%3D"],
+        "viewCount": 0
+    },
+    {
+        "name": "TV Stand",
+        "description": "Modern TV stand with storage compartments. Perfect for organizing your living room entertainment setup.",
+        "category": "Furniture",
+        "price": 180,
+        "images": ["https://plus.unsplash.com/premium_photo-1681816189276-69731364c133?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dHYlMjBzdGFuZHxlbnwwfHwwfHx8MA%3D%3D"],
+        "viewCount": 0
+    },
+    {
+        "name": "Wardrobe",
+        "description": "Spacious wardrobe with hanging and shelving sections. Ideal for maximizing bedroom storage.",
+        "category": "Furniture",
+        "price": 500,
+        "images": ["https://plus.unsplash.com/premium_photo-1664202526559-e21e9c0fb46a?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8V2FyZHJvYmV8ZW58MHx8MHx8fDA%3D"],
+        "viewCount": 0
+    },
+    {
+        "name": "Nightstand",
+        "description": "Compact wooden nightstand with a drawer and shelf. Great for bedside storage.",
+        "category": "Furniture",
+        "price": 80,
+        "images": ["https://images.unsplash.com/photo-1520783077-5c05dd1fdc99?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TmlnaHRzdGFuZHxlbnwwfHwwfHx8MA%3D%3D"],
+        "viewCount": 0
+    },
+    {
+        "name": "Recliner",
+        "description": "Luxury recliner chair with soft upholstery. Ideal for relaxing in your living room.",
+        "category": "Furniture",
+        "price": 300,
+        "images": ["https://images.unsplash.com/photo-1707348102631-5a4c0a6eed6f?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UmVjbGluZXJ8ZW58MHx8MHx8fDA%3D"],
+        "viewCount": 0
+    }
+]

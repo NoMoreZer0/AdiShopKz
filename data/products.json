@@ -1,0 +1,117 @@
+[
+    {
+        "name": "Wireless Headphones",
+        "description": "High-quality wireless headphones with noise-cancellation feature and up to 20 hours of battery life.",
+        "category": "Electronics",
+        "price": 99.99,
+        "images": [
+            "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQTR3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1687660671097",
+            "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQTQ3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1687660671363"
+        ]
+    },
+    {
+        "name": "Gaming Laptop",
+        "description": "High-performance gaming laptop with a powerful processor, dedicated graphics card, and 16GB RAM.",
+        "category": "Electronics",
+        "price": 1299.99,
+        "images": [
+            "https://m.media-amazon.com/images/I/71kBeFDgCkL._AC_UF894,1000_QL80_.jpg"
+        ]
+    },
+    {
+        "name": "Bluetooth Speaker",
+        "description": "Portable Bluetooth speaker with powerful bass, water-resistant design, and 10-hour battery life.",
+        "category": "Electronics",
+        "price": 49.99,
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9cYWSaBNIhOPF2gguIun1olGtIYrHAlOO7w&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkzm330_QXVLpQJnT6jKW3ixSYYI9Vka9t6Q&s"
+        ]
+    },
+    {
+        "name": "Coffee Maker",
+        "description": "Automatic coffee maker with a built-in grinder and programmable settings for a perfect cup every time.",
+        "category": "Home Appliances",
+        "price": 149.99,
+        "images": [
+            "https://images.philips.com/is/image/philipsconsumer/vrs_a6f229ac53eb2ad8dcf9e281050310d76783fec6?wid=700&hei=700&$pnglarge$",
+            "https://i5.walmartimages.com/seo/Mainstays-Black-5-Cup-Drip-Coffee-Maker-New_16f77040-27ab-4008-9852-59c900d7a7d9_1.c524f1d9c465e122596bf65f939c8d26.jpeg"
+        ]
+    },
+    {
+        "name": "Microwave Oven",
+        "description": "Compact microwave oven with multiple power settings and defrost function.",
+        "category": "Home Appliances",
+        "price": 89.99,
+        "images": [
+            "https://res.cloudinary.com/sharp-consumer-eu/image/fetch/w_3000,f_auto/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/d3d2f8d6-b720-11ec-89c9-6a44d5834fc0.jpg"
+        ]
+    },
+    {
+        "name": "Air Purifier",
+        "description": "HEPA air purifier with quiet operation, perfect for small to medium rooms.",
+        "category": "Home Appliances",
+        "price": 199.99,
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3vmkCtf1mKbIQxEbljIB7MeGjnP3Wkwx7Br7jIyAqdt910y-yiVFWTBttgWovHvedWus&usqp=CAU",
+            "https://m.media-amazon.com/images/I/613H6CNegzL._AC_UF894,1000_QL80_.jpg"
+        ]
+    },
+    {
+        "name": "Yoga Mat",
+        "description": "Non-slip yoga mat made from eco-friendly material, suitable for all types of yoga and workouts.",
+        "category": "Sports",
+        "price": 29.99,
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmvZyI5K3ryI0iD4oMBm7pchDCVtt_tcAkqw&s"
+        ]
+    },
+    {
+        "name": "Dumbbell Set",
+        "description": "Adjustable dumbbell set with various weight options, perfect for home workouts.",
+        "category": "Sports",
+        "price": 59.99,
+        "images": [
+            "https://www.primalstrength.com/cdn/shop/files/CPU_DumbbellsGroupwhitebg_61064ddf-c05f-4f20-a6a0-cdda166aa02c.jpg?v=1683205620"
+        ]
+    },
+    {
+        "name": "Resistance Bands",
+        "description": "Set of 5 resistance bands with different resistance levels for strength training and rehabilitation.",
+        "category": "Sports",
+        "price": 19.99,
+        "images": [
+            "https://m.media-amazon.com/images/I/71p6dAKPG9L.jpg"
+        ]
+    },
+    {
+        "name": "Running Shoes",
+        "description": "Comfortable and lightweight running shoes with a breathable upper and durable sole.",
+        "category": "Fashion",
+        "price": 59.99,
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1720814134-adidas-adizero-pro1612-66918a0e69369.jpg?crop=1xw:1xh;center,top&resize=980:*",
+            "https://pyxis.nymag.com/v1/imgs/d84/1d9/03737efabec69c343154398dbb4c4ea540.rsquare.w215.jpg"
+        ]
+    },
+    {
+        "name": "Leather Wallet",
+        "description": "Genuine leather wallet with multiple card slots and a sleek design.",
+        "category": "Fashion",
+        "price": 24.99,
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJWtUIjn4mWoCDoviHdQc2ONFwqJQutK3Xhw&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzctNQzeCxpoVk7_iTgsHZOWwPn12iwpPl3g&s"
+        ]
+    },
+    {
+        "name": "Sunglasses",
+        "description": "Stylish sunglasses with UV protection and polarized lenses.",
+        "category": "Fashion",
+        "price": 19.99,
+        "images": [
+            "https://dj3im2gm3txew.cloudfront.net/pub/media/catalog/product/cache/57ddb9b9ec2d560f8bdcb4560fc608f2/o/l/oliver_008-charcoal-dusk-front-sunglasses_1.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/86b2906a-81d3-4587-9743-94417218690a.__CR0,200,1600,1200_PT0_SX600_V1___.jpg"
+        ]
+    }
+]

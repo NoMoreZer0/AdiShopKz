@@ -1,0 +1,65 @@
+.recommendations-container {
+    margin-top: 20px;
+}
+
+.scrollable-cards {
+    display: flex;
+    overflow-x: auto;
+    padding: 10px 0;
+    scroll-snap-type: x mandatory;
+}
+
+.product-card {
+    flex: 0 0 auto; /* Prevent cards from shrinking */
+    width: 200px; /* Adjust card width as desired */
+    margin-right: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    text-align: center;
+    scroll-snap-align: start;
+    transition: transform 0.3s ease;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+}
+
+.product-image {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.product-info {
+    padding: 10px;
+}
+
+.product-name {
+    font-size: 1rem;
+    color: #333;
+    margin: 5px 0;
+}
+
+.product-price {
+    font-size: 1.1rem;
+    color: #b12704; /* Amazon-style price color */
+    font-weight: bold;
+}
+
+/* Add custom scrollbar styling */
+.scrollable-cards::-webkit-scrollbar {
+    height: 8px;
+}
+
+.scrollable-cards::-webkit-scrollbar-thumb {
+    background-color: #aaa;
+    border-radius: 10px;
+}
+
+.scrollable-cards::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
