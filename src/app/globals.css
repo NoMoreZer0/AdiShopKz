@@ -462,3 +462,47 @@ nav a:hover {
 .pagination-button:hover:not(:disabled) {
   background-color: var(--accent-light);
 }
+
+.purchase-history {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+.order-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.order-card {
+  background-color: #f9f9f9;
+  padding: 1.5rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.order-card h3 {
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.order-card p,
+.order-card h4 {
+  margin: 0.5rem 0;
+}
+
+.product-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.product-purchase-history-image {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 4px;
+}

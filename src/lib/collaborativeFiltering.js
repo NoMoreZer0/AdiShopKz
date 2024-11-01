@@ -31,7 +31,6 @@ async function setupInteractionMatrix() {
 function calculateRecommendations(interactionMatrix, targetUserIndex) {
     const similarityScores = [];
     const targetUserInteractions = interactionMatrix[targetUserIndex];
-    console.log("TargetUserIndex " + targetUserIndex);
     interactionMatrix.forEach((userInteractions, index) => {
         if (index !== targetUserIndex) {
             const targetUserNorm = math.norm(targetUserInteractions);

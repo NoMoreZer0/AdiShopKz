@@ -51,6 +51,9 @@ export default function NavBar() {
                         <Link href="/profile" style={{ marginLeft: "1em" }}>
                             Profile
                         </Link>
+                        <Link href="/orders/history" style={{ marginLeft: "1em" }}>
+                            Purchase History
+                        </Link>
                         <Link href="/cart">
                             <FontAwesomeIcon icon={faShoppingCart} className="cart-icon" />
                         </Link>
