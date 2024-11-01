@@ -13,7 +13,6 @@ export async function GET(request) {
         const recommendedProducts = await Product.find({
             _id: { $in: recommendations.map((rec) => rec.product) },
         });
-        console.log(recommendedProducts);
         return new Response(JSON.stringify(recommendedProducts), { status: 200 });
     } catch (error) {
         console.error("Error generating recommendations:", error);

@@ -14,13 +14,7 @@ export async function GET(request) {
     let filter = {}
 
     if (query) {
-        filter = {
-            ...filter,
-            $or: [
-                { name: { $regex: query, $options: "i" } },
-                { description: { $regex: query, $options: "i" } },
-            ],
-        };
+        filter.$text = { $search: query };
     }
 
     if (category) {

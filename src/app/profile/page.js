@@ -100,6 +100,7 @@ export default function Profile() {
                         name="email"
                         value={user.email || ""}
                         onChange={handleChange}
+                        disabled
                         placeholder="Enter your email"
                     />
                 </label>
